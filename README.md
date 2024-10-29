@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Henry Nguyen</h1>
+<h1 align="center">Hi 👋, I'm Henry</h1>
 <h3 align="center">CompSci student at Temple University. Passionate about working on new projects to enhance problem-solving skills</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=henry2809&label=Profile%20views&color=0e75b6&style=flat" alt="henry2809" /> </p>
