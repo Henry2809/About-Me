@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=henry2809" alt="henry2809" /></a> </p>
 
-- 📫 How to reach me **tuo91182@temple.edu or hautrng003@gmail,com**
+- 📫 How to reach me **tuo91182@temple.edu or hautrng003@gmail.com**
 
-- ⚡ Fun fact **I am a motorcycle racer**
+- ⚡ Fun fact: **I am a motorcycle racer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
